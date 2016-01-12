@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>First_Try</title>
+	</head>
+	<body>
+		<h2>Cataloguing My First Foray Into The Front-End World</h2>
+		<div id="intro">A Little Bit About Me...</div>
+		<div class="pic"><--! insert picture link here --></div>
+	</body>
+</html>
